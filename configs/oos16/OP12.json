@@ -24,5 +24,8 @@
   "ip_set": true,
   "unicode": true,
   "ntsync": true,
+  "zeromount": false,
+  "nomount": true,
+  "blacklist_modules": "",
   "uname": "OP-WILD"
 }
